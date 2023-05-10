@@ -1,0 +1,11 @@
+.bg-img1 {
+  background-size: cover;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+}
+.flex1 {
+  display: flex;
+}
